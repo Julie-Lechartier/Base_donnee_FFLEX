@@ -13,7 +13,5 @@ Afficher tous les films disponibles.
  > type 1 correspond au film qui sont disponible
 
 Afficher les films non disponibles.
+
 `Select type, nom , dispo from media where type = '0' and dispo = '0';`
-
-
-Consulter la liste des films déjà loués.
